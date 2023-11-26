@@ -1,0 +1,12 @@
+Options +SymLinksIfOwnerMatch
+RewriteEngine On
+
+# Allow Installatron requests
+RewriteCond %{REQUEST_FILENAME} deleteme\.\w+\.php
+RewriteRule (.*) - [L] 
+
+RewriteRule ^ index.php [L]
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW IPALLOWID:YewHPs0clb
+allow from 158.140.173.39
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE YewHPs0clb:IPALLOWID
+

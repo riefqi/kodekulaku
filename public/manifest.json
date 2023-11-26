@@ -1,0 +1,30 @@
+{
+  "name": "Kodekulaku",
+  "short_name": "Kodekulaku",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#00ab9f",
+  "description": "Penyedia Jasa Pembuatan Website dan Optimasi",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-j-8qxNrggtY/X0zDvaiV1lI/AAAAAAAAA3o/8wIBtkBzAdIwTGBX-ZIQ3HQS33rv5LVoQCPcBGAYYCw/s1600/192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "purpose": "any"
+  }, {
+    "src": "https://1.bp.blogspot.com/-j-8qxNrggtY/X0zDvaiV1lI/AAAAAAAAA3o/8wIBtkBzAdIwTGBX-ZIQ3HQS33rv5LVoQCPcBGAYYCw/s1600/192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "purpose": "maskable"
+  },{
+    "src": "https://1.bp.blogspot.com/-z2kClTTR-KM/X0zDw08MMcI/AAAAAAAAA3s/5nEvP0fveOgLzlPKPcZ1zXOe_lpbvLQMACPcBGAYYCw/s1600/512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "any"
+  },{
+    "src": "https://1.bp.blogspot.com/-z2kClTTR-KM/X0zDw08MMcI/AAAAAAAAA3s/5nEvP0fveOgLzlPKPcZ1zXOe_lpbvLQMACPcBGAYYCw/s1600/512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "maskable"
+  }]
+}
